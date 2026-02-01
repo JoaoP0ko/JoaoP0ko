@@ -26,7 +26,7 @@
 
 ## 🎯 Objetivo
 
-Busco minha primeira oportunidade como Desenvolvedor Back-end, onde eu possa aplicar meus conhecimentos, evoluir tecnicamente e contribuir com soluções eficientes.
+Busco minha primeira oportunidade como Desenvolvedor Back-end, onde eu possa aplicar meus conhecimentos, evoluir tecnicamente e profissionalmente.
 
 ---
 
