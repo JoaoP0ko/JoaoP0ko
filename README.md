@@ -8,8 +8,10 @@
 
 ## 🧠 Tecnologias que estudo
 
-- Java  
-- SQL (MySQL, PostgreSQL, Advantage Database)  
+- Java
+- SpringBoot
+- SQL (MySQL, PostgreSQL, Advantage Database)
+- APIs Rest
 - JavaScript  
 - HTML & CSS  
 - Git & GitHub  
