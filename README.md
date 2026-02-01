@@ -9,9 +9,9 @@
 ## 🧠 Tecnologias que estudo
 
 - Java
-- SpringBoot
+- Spring Boot
 - SQL (MySQL, PostgreSQL, Advantage Database)
-- APIs Rest
+- APIs REST
 - JavaScript  
 - HTML & CSS  
 - Git & GitHub  
