@@ -8,9 +8,11 @@
 
 
 <img align="right"
-     src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG8yNThqcmxheHliOGxmeHBzZGZrMzhhNDI4NDB5azRkN3h1YnQ4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZCSZp478OpzSMpAAFc/giphy.gif"
-     width="340"
-     style="margin-left:30px; margin-bottom:10px;" />
+src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG8yNThqcmxheHliOGxmeHBzZGZrMzhhNDI4NDB5azRkN3h1YnQ4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZCSZp478OpzSMpAAFc/giphy.gif"
+width="340"
+style="margin-left:40px;"/>
+
+<br>
 
 Em busca da minha primeira oportunidade como **Desenvolvedor Back-end**, onde eu possa aplicar meus conhecimentos, evoluir tecnicamente e contribuir com projetos reais, enquanto continuo desenvolvendo minhas habilidades e crescendo profissionalmente na área de tecnologia.
 
@@ -26,7 +28,6 @@ Em busca da minha primeira oportunidade como **Desenvolvedor Back-end**, onde eu
 ✔️ Desenvolvimento Back-end  
 
 <br clear="right"/>
-
 
 <div align="center">
   <img src="assets/loading-projects.svg">
