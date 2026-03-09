@@ -121,7 +121,7 @@ Em busca da minha primeira oportunidade como **Desenvolvedor Back-end**, onde eu
 <b>Principais Atividades</b>
 
 • Suporte técnico e funcional para usuários de sistema ERP  
-• Correção de dados críticos utilizando SQL (MySQL, PostgreSQL e Advantage Database Server) 
+• Correção de dados críticos utilizando SQL(MySQL, PostgreSQL e Advantage Database Server)<br>
 • Apoio ao time de desenvolvimento na identificação de causa raiz de falhas  
 • Criação de relatórios personalizados conforme necessidade do cliente   
 <br>
