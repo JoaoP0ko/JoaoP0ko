@@ -8,7 +8,7 @@
 
 <img align="right"
      src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG8yNThqcmxheHliOGxmeHBzZGZrMzhhNDI4NDB5azRkN3h1YnQ4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZCSZp478OpzSMpAAFc/giphy.gif"
-     style="width:450px; margin-left:20px;">
+     style="width:390px; margin-left:25px; height:390px;">
 
 <p align="left">Em busca da minha primeira oportunidade como Desenvolvedor Back-end, onde eu possa aplicar meus conhecimentos, evoluir tecnicamente e contribuir com projetos reais, enquanto continuo desenvolvendo minhas habilidades e crescendo profissionalmente na área de tecnologia.<br><br>🎓 Estudante de Ciência da Computação<br>💻 Analista de Suporte Técnico<br>🚀 Em transição para a área de Desenvolvimento Back-end<br><br>📚 Atualmente focado em:<br><br>✔️ Estruturas de Dados<br>✔️ Programação Orientada a Objetos (POO)<br>✔️ Desenvolvimento Back-end</p>
 
