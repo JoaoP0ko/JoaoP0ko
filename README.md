@@ -113,6 +113,27 @@ Em busca da minha primeira oportunidade como **Desenvolvedor Back-end**, onde eu
 ###
 
 ---
+<h3 align="left">💼 Experiência</h3>
+
+<h4>S.E. Sistemas — Analista de Suporte Técnico 
+📅 Set/2023 – Atual • 📍 Formiga, MG</h4>
+
+<b>Principais Atividades</b>
+
+• Suporte técnico e funcional para usuários de sistema ERP  
+• Correção de dados críticos utilizando SQL (MySQL, PostgreSQL e Advantage Database Server) 
+• Apoio ao time de desenvolvimento na identificação de causa raiz de falhas  
+• Criação de relatórios personalizados conforme necessidade do cliente   
+<br>
+
+<b>Resultados Obtidos</b>
+
+• Redução da reincidência de erros através de análises de causa raiz  
+• Melhoria da integridade e confiabilidade dos dados do sistema  
+
+</p>
+
+---
 ## 📊 GitHub Stats
 
 <div align="center" name="stats">
