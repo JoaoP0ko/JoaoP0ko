@@ -116,10 +116,10 @@ Em busca da minha primeira oportunidade como **Desenvolvedor Back-end**, onde eu
 
 <div align="center" name="stats">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoP0ko&theme=monokai" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoP0ko&theme=monokai&v=2" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoaoP0ko&theme=monokai" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoaoP0ko&theme=monokai&v=2" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoaoP0ko&theme=monokai" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoaoP0ko&theme=monokai&v=2" />
 
 </div>
