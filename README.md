@@ -21,18 +21,16 @@
 
 <h3 align="center">🌐 Connect with Me</h3>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/joaopedrodantasbrito/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/JoaoP0ko" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.com/users/joaop0ko" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=JoaoP0ko@yahoo.com&logo=gmail&label=E-mail&color=grey&logoColor=red&labelColor=purple&style=for-the-badge" height="25" alt="gmail logo"  />
-</div>
+<p align="center">
+<a href="https://www.linkedin.com/in/joaopedrodantasbrito/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+&nbsp;
+<a href="https://instagram.com/JoaoP0ko" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+&nbsp;
+<a href="https://discord.com/users/joaop0ko" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+&nbsp;
+<a href="mailto:joaop0ko@yahoo.com"><img src="https://img.shields.io/badge/Email-joaop0ko@yahoo.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+</p>
 
 ---
 
@@ -101,13 +99,14 @@
 ###
 
 ---
-## 📊 Github Stats
+## 📊 GitHub Stats
 
 <div align="center" name="stats">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoP0ko&theme=monokai" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoaoP0ko&theme=monokai" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoaoP0ko&theme=monokai" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoP0ko&theme=monokai" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoaoP0ko&theme=monokai" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoaoP0ko&theme=monokai" />
+
 </div>
-
-
-
