@@ -26,7 +26,9 @@ Em busca da minha primeira oportunidade como **Desenvolvedor Back-end**, onde eu
 ✔️ Desenvolvimento Back-end  
 
 
-<img src="https://www.behance.net/gallery/92880429/ROG-Wallpaper-Design/modules/536745307" width="420"/>
+<p align="center">
+  <img src="assets/Imagem.gif" width="450">
+</p>
 
 </div>
 
