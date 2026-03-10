@@ -141,12 +141,12 @@ Em busca da minha primeira oportunidade como **Desenvolvedor Back-end**, onde eu
 ---
 ## 📊 GitHub Stats
 
-<div align="center" name="stats">
+<div align="center">
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoP0ko&theme=monokai&v=2" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoP0ko&theme=monokai" />
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoaoP0ko&theme=monokai&v=2" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoaoP0ko&theme=monokai" />
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoaoP0ko&theme=monokai&v=2" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoaoP0ko&theme=monokai" />
 
 </div>
