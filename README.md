@@ -1,8 +1,11 @@
-<h1 align="center">Olá👋, Eu Sou João Pedro!</h1>
+<h2 align="center">
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">,
+  I'm João Pedro
+</h2>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Silkscreen&pause=1000&color=F7F7F7&center=true&width=700&height=40&lines=Back-end+Developer+in+Transition;Computer+Science+Student;Passionate+about+Back-end+Development" />
+<img src="https://readme-typing-svg.demolab.com?font=Silkscreen&pause=1000&color=F7F7F7&center=true&width=700&height=40&lines=On+the+Journey+to+Becoming+a+Back-end+Developer;Computer+Science+Student;Passionate+about+Back-end+Development" />
 
 </div>
 
@@ -23,7 +26,7 @@ Em busca da minha primeira oportunidade como **Desenvolvedor Back-end**, onde eu
 ✔️ Desenvolvimento Back-end  
 
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG8yNThqcmxheHliOGxmeHBzZGZrMzhhNDI4NDB5azRkN3h1YnQ4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZCSZp478OpzSMpAAFc/giphy.gif" width="420"/>
+<img src="https://www.behance.net/gallery/92880429/ROG-Wallpaper-Design/modules/536745307" width="420"/>
 
 </div>
 
