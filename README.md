@@ -5,28 +5,36 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Silkscreen&pause=1000&color=F7F7F7&center=true&width=700&height=40&lines=On+the+Journey+to+Becoming+a+Back-end+Developer;Computer+Science+Student;Passionate+about+Back-end+Development" />
+<img src="https://readme-typing-svg.demolab.com?font=Silkscreen&pause=1000&color=F7F7F7&center=true&width=850&height=40&lines=Junior+Full+Stack+Developer;Turning+Ideas+Into+Real+Solutions;Computer+Science+Student;Passionate+about+Technology+and+Innovation" />
 
 </div>
 
 
 <div align="center">
 
-Atualmente atuando como Desenvolvedor Full Stack Júnior, aplicando e aprimorando meus conhecimentos em projetos reais, buscando evolução constante, boas práticas de desenvolvimento e crescimento profissional na área de tecnologia.
+<p>
+Atualmente atuando como <strong>Desenvolvedor Full Stack Júnior</strong>, aplicando e aprimorando meus conhecimentos em projetos reais, buscando evolução constante, boas práticas de desenvolvimento e crescimento profissional na área de tecnologia.
+</p>
 
-🎓 Estudante de Ciência da Computação
-💻 Desenvolvedor Full Stack Júnior
-🚀 Focado em evolução contínua e desenvolvimento de soluções
-💬 Sempre aberto a colaborações e discussões técnicas
+<p>🎓 Estudante de Ciência da Computação</p>
+<p>💻 Desenvolvedor Full Stack Júnior</p>
+<p>🚀 Focado em evolução contínua e desenvolvimento de soluções</p>
+<p>💬 Sempre aberto a colaborações e discussões técnicas</p>
 
-📚 Atualmente focado em:
+<br>
 
-✔️ Estruturas de Dados
-✔️ Programação Orientada a Objetos (POO)
-✔️ Desenvolvimento Back-end
-✔️ Front-end Moderno
-✔️ Java & Spring Boot
-✔️ Banco de Dados SQL
+<p>📚 Atualmente focado em:</p>
+<p>✔️ Estruturas de Dados</p>
+<p>✔️ Programação Orientada a Objetos (POO)</p>
+<p>✔️ Desenvolvimento Back-end</p>
+<p>✔️ Front-end Moderno</p>
+<p>✔️ Java & Spring Boot</p>
+<p>✔️ Banco de Dados SQL</p>
+
+</div>
+
+<br>
+<br>
 
 <p align="center">
   <img src="assets/Imagem.gif" width="450">
