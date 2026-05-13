@@ -12,19 +12,21 @@
 
 <div align="center">
 
-Em busca da minha primeira oportunidade como **Desenvolvedor Back-end**, onde eu possa aplicar meus conhecimentos, evoluir tecnicamente e contribuir com projetos reais, enquanto continuo desenvolvendo minhas habilidades e crescendo profissionalmente na área de tecnologia.
+Atualmente atuando como Desenvolvedor Full Stack Júnior, aplicando e aprimorando meus conhecimentos em projetos reais, buscando evolução constante, boas práticas de desenvolvimento e crescimento profissional na área de tecnologia.
 
-🎓 Estudante de Ciência da Computação  
-💻 Analista de Suporte Técnico  
-🚀 Em transição para a área de Desenvolvimento Back-end  
-💬 Sempre aberto a colaborações e discussões técnicas  
+🎓 Estudante de Ciência da Computação
+💻 Desenvolvedor Full Stack Júnior
+🚀 Focado em evolução contínua e desenvolvimento de soluções
+💬 Sempre aberto a colaborações e discussões técnicas
 
-📚 **Atualmente focado em:**
+📚 Atualmente focado em:
 
-✔️ Estruturas de Dados  
-✔️ Programação Orientada a Objetos (POO)  
-✔️ Desenvolvimento Back-end  
-
+✔️ Estruturas de Dados
+✔️ Programação Orientada a Objetos (POO)
+✔️ Desenvolvimento Back-end
+✔️ Front-end Moderno
+✔️ Java & Spring Boot
+✔️ Banco de Dados SQL
 
 <p align="center">
   <img src="assets/Imagem.gif" width="450">
