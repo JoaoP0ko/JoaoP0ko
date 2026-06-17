@@ -123,8 +123,24 @@ Atualmente atuando como <strong>Desenvolvedor Full Stack Júnior</strong>, aplic
 ---
 <h3 align="left">💼 Experiência</h3>
 
+<h4>Avante Soluções Digitais — Desenvolvedor Full Stack 
+📅 Mai/2026 - Atual • 📍 Formiga, MG</h4>
+
+Principais Atividades
+
+• Desenvolvimento e manutenção de sistemas web utilizando Java, JSF, PrimeFaces e SQL<br>
+• Implementação de novas funcionalidades e correções em sistemas ERP<br>
+• Criação e otimização de consultas SQL em bancos Oracle<br>
+• Desenvolvimento de integrações, regras de negócio e rotinas de importação de dados<br>
+• Análise e correção de bugs reportados por clientes e equipe de suporte<br>
+• Versionamento de código utilizando Git e participação em Pull Requests<br>
+
+Tecnologias
+
+Java • Spring Boot • JSF • PrimeFaces • Hibernate/JPA • Oracle Database • SQL • Maven • Git • Payara
+
 <h4>S.E. Sistemas — Analista de Suporte Técnico 
-📅 Set/2023 – Atual • 📍 Formiga, MG</h4>
+📅 Set/2023 – Mai/2026 • 📍 Formiga, MG</h4>
 
 <b>Principais Atividades</b>
 
